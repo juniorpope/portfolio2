@@ -82,21 +82,20 @@ main .servicetext {
 
 main .main3 {
     display: flex;
-    gap: 10rem;
+    gap:5rem;
     margin-top: 6rem;
     justify-content: space-around;
 }
 
 main .main3 .play {
-    display: grid;
-    padding: .5rem ; 
+    padding: 5rem ; 
     box-shadow: 3px 6px 3px rgb(4, 0, 255);
     border-radius: 1rem;
     border-top-style: hidden;  
 }
 
 main .main3 video {
-    width: 35rem;
+    width: 25rem;
 }
 
 main .main3 .page {
