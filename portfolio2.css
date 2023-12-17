@@ -28,18 +28,18 @@ nav {
 nav .oraclelogo img {
     height: 40px;
     border-radius: .5rem;
+    padding: .5rem; 
 }
 
 nav .centernav {
-    padding-right: 9rem;
     display: flex;
-    gap: 230px;
+    gap: 2rem;
     padding: .6rem;
 }
 
 nav .subcenter {
     display: flex;
-    gap: 30px;
+    gap: 2px;
     }
 
 main .main1{
@@ -55,13 +55,21 @@ main .main1 .introduction {
 
 main .main1 .social {
     display: grid;
+gap: 7px; 
+
 }
 
 main .main2 {
     display: flex;
     margin-top: 4rem;
-    justify-content: space-around;
+    margine-inline: 6rem; 
+    gap:20rem ;
 }
+
+main .main2 img  {
+    padding: 2rem; 
+}
+    
 
 main .main2 .skills {
     display: grid;
