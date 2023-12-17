@@ -1,6 +1,6 @@
 *{
-    padding: 0;
-    margin: 0;
+    padding: zero;
+    margin: zero;
     color: white;
     background-color: black;
 
@@ -21,14 +21,14 @@ button {
 
 nav {
     display: flex;
-    padding: 3rem;
+    padding: 2rem;
     justify-content: space-between;
 }
 
 nav .oraclelogo img {
     height: 40px;
     border-radius: .5rem;
-    padding: .5rem; 
+    padding: .5rem;
 }
 
 nav .centernav {
@@ -39,8 +39,9 @@ nav .centernav {
 
 nav .subcenter {
     display: flex;
-    gap: 2px;
-    }
+    gap: 2rem;
+}
+
 
 main .main1{
     display: flex;
@@ -55,21 +56,19 @@ main .main1 .introduction {
 
 main .main1 .social {
     display: grid;
-gap: 7px; 
-
+    gap: 7px;
 }
 
 main .main2 {
     display: flex;
     margin-top: 4rem;
-    margine-inline: 6rem; 
-    gap:20rem ;
+    margin-inline: 6rem;
+    gap: 20rem;
 }
 
-main .main2 img  {
-    padding: 2rem; 
+main .main2 img {
+    padding: 2rem;
 }
-    
 
 main .main2 .skills {
     display: grid;
@@ -82,28 +81,29 @@ main .servicetext {
 
 main .main3 {
     display: flex;
-    gap:5rem;
     margin-top: 6rem;
     justify-content: space-around;
 }
 
 main .main3 .play {
-    padding:1rem ; 
-    box-shadow: 3px 6px 3px rgb(4, 0, 255);
+    padding: 1rem ; 
+    box-shadow: 3px 6px 3px rgb(0, 60, 255);
     border-radius: 1rem;
-    border-top-style: hidden;  
+    border-top-style: hidden;
+    width: 20rem;
+    
 }
 
 main .main3 video {
-    width: 25rem;
+    width: 20rem;
 }
 
 main .main3 .page {
-    display: grid;
     padding: .5rem ; 
     box-shadow: 3px 6px 3px rgb(0, 38, 255);
     border-radius: 1rem;
     border-top-style: hidden; 
+    width: 20rem;
 }
 
 
@@ -218,13 +218,15 @@ main .main8 .socialmedias i {
 main .main9 {
     margin-top: 1rem;
     display: flex;
-    border-color: blue;
-    border-top-style: groove;
+    
 }
 
 main .main9 .privacy {
     display: flex;
     gap: 30px;
-    margin-left: 24rem;
+    margin-left: 26rem;
+    margin-bottom: 6rem;
+    border-color: blue;
+    border-top-style: groove;
 }
     
