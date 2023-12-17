@@ -40,11 +40,7 @@ nav .centernav {
 nav .subcenter {
     display: flex;
     gap: 30px;
-}
-
-main {
-    padding-inline: 3rem;
-}
+    }
 
 main .main1{
     display: flex;
