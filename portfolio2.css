@@ -88,7 +88,7 @@ main .main3 {
 }
 
 main .main3 .play {
-    padding: 5rem ; 
+    padding:1rem ; 
     box-shadow: 3px 6px 3px rgb(4, 0, 255);
     border-radius: 1rem;
     border-top-style: hidden;  
